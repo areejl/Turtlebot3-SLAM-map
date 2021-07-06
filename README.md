@@ -57,10 +57,9 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ```
 control the robot using the keys WASDX </br>
 Exploring the map with your robot </br>
-
-![map](control.png)
-![map](map.png)</br>
 8. Save the map: </br>
 `$ rosrun map_server map_saver -f ~/map`</br>
 ![map](save.png)
+![map](control.png)
+![map](map.png)
 
