@@ -1,4 +1,4 @@
-b# Turtlebot3-SLAM-map
+# Turtlebot3-SLAM-map
 ## Use Turtlebot3 with SLAM approach to create and save a map - Task 3 for track AI at Smart-Methods summer training
 
 >*Note: You should have VMware and ubuntu18.04 and installed ROS melodic first.*
@@ -56,7 +56,8 @@ $ export TURTLEBOT3_MODEL=burger
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ```
 control the robot using the keys WASDX </br>
-Exploring the map with your robot </br>
+Exploring the map with your robot 
+
 	![ ](control.png)
     ![ ](map.png)
 8. Save the map:</br>
