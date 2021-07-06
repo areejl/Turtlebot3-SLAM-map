@@ -56,13 +56,13 @@ $ export TURTLEBOT3_MODEL=burger
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ```
 control the robot using the keys WASDX </br>
-Exploring the map with your robot 
+Exploring the map with your robot </br>
 
-	![ ](control.png)
-    ![ ](map.png)
+![map](control.png)
+![map](map.png)
 8. Save the map:</br>
 ```
 $ rosrun map_server map_saver -f ~/map
 ```
-![ ](save.png)
+![map](save.png)
 
