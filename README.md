@@ -59,10 +59,8 @@ control the robot using the keys WASDX </br>
 Exploring the map with your robot </br>
 
 ![map](control.png)
-![map](map.png)
-8. Save the map:</br>
-```
-$ rosrun map_server map_saver -f ~/map
-```
+![map](map.png)</br>
+8. Save the map: </br>
+`$ rosrun map_server map_saver -f ~/map`</br>
 ![map](save.png)
 
